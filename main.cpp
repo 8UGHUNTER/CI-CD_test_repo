@@ -4,6 +4,11 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello World";
+    int a, b;
+    cout << "Enter first number" << endl;
+    cin >> a;
+    cout << "Enter second number" << endl;
+    cin >> b;
+    cout << a+b-2 << endl;
     return 0;
 }
