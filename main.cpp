@@ -1,4 +1,5 @@
 #include <iostream>
+#include "calc_module.h"
 
 using namespace std;
 
@@ -9,6 +10,6 @@ int main()
     cin >> a;
     cout << "Enter second number" << endl;
     cin >> b;
-    cout << a+b-2 << endl;
+    cout << pi_count(a+b-2) << endl;
     return 0;
 }
