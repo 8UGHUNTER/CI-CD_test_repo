@@ -2,7 +2,6 @@
 #include <fstream>
 #include "calc_module.h"
 
-
 using namespace std;
 
 int main()
