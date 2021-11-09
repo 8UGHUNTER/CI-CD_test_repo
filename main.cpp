@@ -11,5 +11,4 @@ int main()
     cout << "Enter second number" << endl;
     cin >> b;
     cout << pi_count(a+b-2) << endl;
-    return 0;
 }
