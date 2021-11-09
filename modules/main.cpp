@@ -19,5 +19,4 @@ int main()
 			result << " false\n";
 	}
 	result.close();
-	return 0;
 }
