@@ -6,6 +6,7 @@ using namespace std;
 
 int main()
 {
+
 	float input[5] = {0, -1, 5, 1.5, 3.14};
 	float output[5] = {0, -3.14, 15.7, 4.71, 9.8596};
 	ofstream result;
